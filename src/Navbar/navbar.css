@@ -1,0 +1,21 @@
+.mainnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.mainnav ul {
+  list-style: none;
+  display: flex;
+}
+.mainnav ul li {
+  margin-right: 20px;
+  font-weight: bold;
+  color: rgb(0, 0, 97);
+  cursor: pointer;
+}
+
+.mainnav img {
+  margin-left: 40px;
+}

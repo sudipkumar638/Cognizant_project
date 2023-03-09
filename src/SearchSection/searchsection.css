@@ -1,0 +1,23 @@
+.inputrow {
+  display: flex;
+  margin-top: 20px;
+}
+
+.searchbox {
+  color: #0234a0;
+}
+h1 {
+  font-size: 60px;
+}
+h4 {
+  font-size: 40px;
+}
+.smallhead {
+  margin-top: 60px;
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+  .searchsection {
+    display: none;
+  }
+}

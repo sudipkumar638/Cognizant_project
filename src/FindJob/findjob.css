@@ -1,0 +1,23 @@
+.findjobsection img {
+  width: 100%;
+  object-fit: cover;
+  margin-top: 10px;
+}
+
+.findjobsection {
+  position: relative;
+}
+.searchsection {
+  position: absolute;
+
+  z-index: 3000;
+
+  top: 100px;
+  left: 150px;
+}
+
+@media (min-width: 600px) and (max-width: 1700px) {
+  .searchsection {
+    display: none;
+  }
+}

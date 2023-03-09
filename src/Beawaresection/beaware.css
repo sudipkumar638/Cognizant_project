@@ -1,0 +1,17 @@
+.texts {
+  background-color: #000048;
+  height: 350px;
+  color: white;
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  line-height: 30px;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+span {
+  color: yellow;
+}

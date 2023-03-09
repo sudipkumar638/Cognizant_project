@@ -1,0 +1,16 @@
+.foot {
+  height: 40px;
+  background-color: grey;
+  margin-top: 50px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+ul li {
+  margin-left: 15px;
+}
